@@ -17,13 +17,13 @@ title: EmiVTC
 subtitle:
 email: emivtc33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Site d'imivtc, chauffeuse vtc sur bordeaux et gironde.
+  Site d'émi vtc, chauffeuse vtc sur bordeaux et gironde.
 author: test
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-avatar: assets/images/avatar.jpg
+avatar: assets/images/logoLexus.png
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-prologue
